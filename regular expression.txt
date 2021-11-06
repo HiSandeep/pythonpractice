@@ -1,5 +1,0 @@
-import re
-re.search
-re.match
-re.findall
-re.sub
